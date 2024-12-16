@@ -815,7 +815,7 @@ Systems such as [Consul](https://www.consul.io/docs/index.html), [Etcd](https://
 
 ### Relational database management system (RDBMS)
 
-A relational database like SQL is a collection of data items organized in tables.
+A relational database like MySQL is a collection of data items organized in tables.
 
 **ACID** is a set of properties of relational database [transactions](https://en.wikipedia.org/wiki/Database_transaction).
 
